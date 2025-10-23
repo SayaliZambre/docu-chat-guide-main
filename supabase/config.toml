@@ -1,0 +1,4 @@
+project_id = "wppatjgwqivhiuckqher"
+
+[functions.chat-with-pdf]
+verify_jwt = false
